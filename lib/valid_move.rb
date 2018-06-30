@@ -14,4 +14,3 @@ def valid_move?(board, index)
   else
     false
   end
-end
